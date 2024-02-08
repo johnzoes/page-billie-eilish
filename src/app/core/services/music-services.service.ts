@@ -24,4 +24,19 @@ export class MusicServicesService {
     return resJson
   }
 
+  async getByAlbum(id:number):Promise<Songs[]>{
+    const res = await fetch("./../../../../assets/data/database.json");
+    const resJson: Album[] = await res.json();
+
+    const albumEncontrado = resJson.find(album => album.id === id);
+    if (albumEncontrado){
+      return albumEncontrado.canciones;
+    }
+    else{
+      return [];
+    }
+  }
+
+
+
 }

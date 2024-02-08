@@ -5,7 +5,7 @@
 
 <div id="album">
 
-    <div *ngFor="let album of album; let i = index"  class="contenedor-imagen" (click)="abrirLista()" (click)="traerCanciones()">
+    <div *ngFor="let album of album; let i = index"  class="contenedor-imagen" (click)="abrirLista(album.id)" >
       <img src="{{ album.foto }}" alt="{{ album.nombre }}">
 
       <div class="texto-superpuesto">

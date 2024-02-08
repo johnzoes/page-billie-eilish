@@ -1,1 +1,12 @@
-<p>album-canciones works!</p>
+
+
+<div id="container-canciones" class="contenedor">
+
+
+<div *ngFor="let cancion of song; let i = index" id="cancion">
+ <p> {{cancion.nombre}}</p>
+
+ <span>{{cancion.duracion}} </span>
+</div>
+
+</div>

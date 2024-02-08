@@ -1,0 +1,152 @@
+[
+    {
+        "id":1,
+        "nombre": "WHEN WE ALL FALL SLEEP, WHERE DO WE GO??",
+        "foto":"https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png",
+        "canciones":[
+            {
+                "id": 1,
+                "nombre": "!!!!!!!",
+                "duracion": "0:13"
+            },
+            {
+                "id": 2,
+                "nombre": "bad guy",
+                "duracion": "3:14"
+            },
+            {
+                "id": 3,
+                "nombre": "xanny",
+                "duracion": "4:13"
+            },
+            {
+                "id": 4,
+                "nombre": "you should see me in a crown",
+                "duracion": "3:00"
+            },
+            {
+                "id": 5,
+                "nombre": "all the good girls go to hell",
+                "duracion": "2:48"
+            },
+            {
+                "id": 6,
+                "nombre": "wish you were gay",
+                "duracion": "3:41"
+            },
+            {
+                "id": 7,
+                "nombre": "when the party's over",
+                "duracion": "3:16"
+            },
+            {
+                "id": 8,
+                "nombre": "8",
+                "duracion": "2:53"
+            },
+            {
+                "id": 9,
+                "nombre": "my strange addiction",
+                "duracion": "2:59"
+            },
+            {
+                "id": 10,
+                "nombre": "bury a friend",
+                "duracion": "3:13"
+            },
+            {
+                "id": 11,
+                "nombre": "ilomilo",
+                "duracion": "2:36"
+            },
+            {
+                "id": 12,
+                "nombre": "listen before i go",
+                "duracion": "2:36"
+            },
+            {
+                "id": 13,
+                "nombre": "i love you",
+                "duracion": "2:36"
+            },
+            {
+                "id": 14,
+                "nombre": "goodbye",
+                "duracion": "2:36"
+            }
+
+    ]
+         
+    },
+
+    {
+        "id":2,
+        "nombre": "Happier Than Ever",
+        "foto":"https://www.lahiguera.net/musicalia/artistas/billie_eilish/disco/11217/billie_eilish_happier_than_ever-portada.jpg",
+        "canciones":[
+            {
+                "id": 1,
+                "nombre": "Getting Older",
+                "duracion": "0:13"
+            },
+            {
+                "id": 2,
+                "nombre": "I Didn't Change My Number",
+                "duracion": "3:14"
+            },
+            {
+                "id": 3,
+                "nombre": "Billie Bossa Nova",
+                "duracion": "4:13"
+            },
+            {
+                "id": 3,
+                "nombre": "Billie Bossa Nova",
+                "duracion": "4:13"
+            },
+            {
+                "id": 3,
+                "nombre": "My Future",
+                "duracion": "4:13"
+            }
+         ]
+         
+    },
+
+    {
+        "id":3,
+        "nombre": "don't smile at me",
+        "foto":"https://i.pinimg.com/564x/11/c6/d3/11c6d3589f1e50170bfa52c5674b1317.jpg",
+        "canciones":[
+            {
+                "id": 1,
+                "nombre": "COPYCAT",
+                "duracion": "0:13"
+            },
+            {
+                "id": 2,
+                "nombre": "idontwannabeyouanymore",
+                "duracion": "3:14"
+            },
+            {
+                "id": 3,
+                "nombre": "my boy",
+                "duracion": "4:13"
+            },
+            {
+                "id": 4,
+                "nombre": "watch",
+                "duracion": "4:13"
+            },
+            {
+                "id": 5,
+                "nombre": "party favor",
+                "duracion": "4:13"
+            }
+
+
+        ]
+         
+    }
+
+]

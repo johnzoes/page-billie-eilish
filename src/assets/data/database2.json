@@ -1,0 +1,43 @@
+[
+    
+    {
+        "id": 1,
+        "nombre": "What Was I Made For",
+        "duracion": "3:42",
+        "img": "https://i.pinimg.com/736x/f5/bc/35/f5bc358156e05c9b54e13967a5dd5664.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "lovely",
+        "colaboracion": "Khalid",
+        "duracion": "3:20",
+        "img": "https://i.pinimg.com/564x/14/ba/4b/14ba4b1b72f40314bd9420f4724baadd.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "WHEN I WAS OLDER",
+        "duracion": "3:42",
+        "img": "https://i.pinimg.com/564x/af/de/86/afde867a9eff6027163bf6794b040783.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "No Time To Die",
+        "duracion": "3:42",
+        "img": "https://i.pinimg.com/564x/7d/82/0a/7d820a57651e2ea3d2a9737486915fa4.jpg"
+    } ,
+  {
+        "id": 5,
+        "nombre": "everything i wanted",
+        "duracion": "3:42",
+        "img": "https://i.pinimg.com/564x/9e/9a/b9/9e9ab90a217e892a1381fd772edeecf8.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "bitches broken heart",
+        "duracion": "3:42",
+        "img": "https://i.pinimg.com/564x/60/01/48/600148647adb63e4b006eea28d8158fa.jpg"
+
+    }
+
+
+]

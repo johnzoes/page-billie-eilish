@@ -1,0 +1,35 @@
+
+<div id="container-music" >
+
+  <h1 class="titulo">ALBUMS</h1>
+
+<div id="album">
+
+    <div *ngFor="let album of album; let i = index"  class="contenedor-imagen" (click)="abrirLista()" (click)="traerCanciones()">
+      <img src="{{ album.foto }}" alt="{{ album.nombre }}">
+
+      <div class="texto-superpuesto">
+    {{ album.nombre }}
+      </div>
+
+    </div>
+  </div>
+
+
+
+
+
+  <h1 class="titulo">SOLITARIO</h1>
+  <div id="canciones">
+
+      <div *ngFor="let song of songs; let i = index"  class="contenedor-imagen">
+
+        <img src = "{{song.img}}">
+        <div class="texto-superpuesto">
+          {{song.nombre}}
+        </div>
+
+       </div>
+    </div>
+
+</div>
